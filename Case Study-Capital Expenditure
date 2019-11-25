@@ -1,0 +1,32 @@
+	The CFO of GolfPro Center is considering purchasing an automated fairway weed control machine, but is uncertain as to whether it is a favorable expenditure decision. The CFO has asked you, the accounting manager, to evaluate the capital expenditure item and report the results. Since the cash flows don't occur in the same periods and because a dollar today is worth more than a dollar tomorrow, you will need to take into account the time value of money by using the net present value (NPV) approach and/or the internal rate of return (IRR) approach. The company estimated the equipment will last 5 years. Each year it will save the company $2000 in wasted spraying conditions. It will also reduce labor costs by $20,000 a year. It is estimated that the equipment will require $1,000 maintenance costs per year. The equipment costs $70,000 and it is expected to have a residual or salvage value of $5000 at the end of 5 years. Top management has determined the required rate of return is 12%. Should the company invest in the new equipment? Report results and decision determination to owner. 								
+		
+    Net Present Value Approach						
+Time Period	0	1	2	3	4	5
+Cash Flow						
+Purchase Price	 $(70,000)					
+Labor Savings		20,000 	20,000 	20,000 	20,000 	20,000 
+Paint Savings		2,000 	2,000 	2,000 	2,000 	2,000 
+Maintenance		(1,000)	(1,000)	(1,000)	(1,000)	(1,000)
+Residual Value						5,000 
+Total Cash Flow 	 $(70,000)	21,000 	21,000 	21,000 	21,000 	26,000 
+PV Factor		0.893	0.797	0.712	0.659	0.567
+Total Cash Flow 	 $(70,000)	 $18,751 	 $16,741 	 $14,948 	 $13,833 	 $14,752 
+
+    Capital Expenditure Decison:											
+	Years	Cash Flow	Cumulative Cash Flow											
+	0	 $(70,000)	 $(70,000)											
+	1	 $18,753 	 $(51,247)											
+	2	 $16,737 	 $(34,510)											
+	3	 $14,952 	 $(19,558)											
+	4	 $13,356 	 $(6,202)											
+	5	 $14,742 	 $8,540 											
+														
+														
+Capital expenditure decision is the process of capital budgeting to determine if a project (such as the purchase of new equipment) is worth investing in. For this project, we used the NPV and IRR methods to determine if the purchase of new equipment was worth investing in. For the decision-making process, if the project has a positive NPV then it’s worth investing in. The above analysis shows the cumulative discount cash flow. As you can see, the first 4 years has a negative NPV. However, in the 5th year the cumulative cash flow becomes positive. When the NPV curve intersects with the X-axis is when the NVP is zero. Once the curve crosses the x-axis the NVP becomes positive.  Based off the above project, it’s at this point that management would determine that the project is worth undertaking. Another method that was used for this capital expenditure decision making process was the IRR.  Management set a threshold of 12%. An IRR above 12% would be worth investing in. This project has an internal rate of return of 17%, therefore the project should be undertaken.														
+														
+														
+														
+														
+														
+														
+														
